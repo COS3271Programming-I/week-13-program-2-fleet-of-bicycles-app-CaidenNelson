@@ -1,0 +1,77 @@
+/Users/caidennelson/Library/Java/JavaVirtualMachines/openjdk-23.0.1/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=57344:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/caidennelson/IdeaProjects/UNWSP Java Class/out/production/Week 13 bikeFleet
+How many bikes would you like to have in your fleet? Max of 6.
+6
+What is the cadence for bike 1
+1
+What is the speed for bike 1
+1
+What is the gear for bike 1
+1
+What is the start type for bike 1
+1
+Who is the owner for bike 1
+Joe
+What is the cadence for bike 2
+2
+What is the speed for bike 2
+2
+What is the gear for bike 2
+2
+What is the start type for bike 2
+2
+Who is the owner for bike 2
+Bob
+What is the cadence for bike 3
+3
+What is the speed for bike 3
+3
+What is the gear for bike 3
+3
+What is the start type for bike 3
+3
+Who is the owner for bike 3
+Bill
+What is the cadence for bike 4
+4
+What is the speed for bike 4
+4
+What is the gear for bike 4
+4
+What is the start type for bike 4
+4
+Who is the owner for bike 4
+Mike
+What is the cadence for bike 5
+5
+What is the speed for bike 5
+5
+What is the gear for bike 5
+5
+What is the start type for bike 5
+5
+Who is the owner for bike 5
+Jim
+What is the cadence for bike 6
+6
+What is the speed for bike 6
+6
+What is the gear for bike 6
+6
+What is the start type for bike 6
+6
+Who is the owner for bike 6
+Walter
+The cadence is 1, the speed is 1, the gear is 1
+the start type is 1, and the owner is Joe
+The cadence is 2, the speed is 2, the gear is 2
+the start type is 2, and the owner is Bob
+The cadence is 3, the speed is 3, the gear is 3
+the start type is 3, and the owner is Bill
+The cadence is 4, the speed is 4, the gear is 4
+the start type is 4, and the owner is Mike
+The cadence is 5, the speed is 5, the gear is 5
+the start type is 5, and the owner is Jim
+The cadence is 6, the speed is 6, the gear is 6
+the start type is 6, and the owner is Walter
+
+Process finished with exit code 0
